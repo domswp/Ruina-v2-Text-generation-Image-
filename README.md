@@ -1,8 +1,8 @@
-# chatGPT-telegram
+# Ruina-v2-Text-generation-image
 
 
 
-chatGPT-telegram is a telegram chatbot based on chatGPT from openai which is very powerful
+Ruina-v2-Text-generation-image is a telegram chatbot based on chatGPT from openai and have image generation feature dall-E
 
 
 
@@ -29,15 +29,15 @@ add your secret key at
 
 ```bash
 import openai
-openai.api_key = "secret key"
+openai.api_key = "Openai-key"
 ```
 
-to get the telegram secret key you can see the tutorial [here](https://www.pragnakalp.com/create-telegram-bot-using-python-tutorial-with-examples/).
+to get the telegram secret key you can see the tutorial 
 
 add your telegram secret key at 
 
 ```bash
-api = 'bot-key'
+api = 'telegrambot-key'
 bot = telebot.TeleBot(api)
 ```
 
@@ -47,13 +47,13 @@ bot = telebot.TeleBot(api)
 Clone the project
 
 ```bash
-  git clone https://github.com/zarlicho/chatGPT-telegram.git
+  git clone https://github.com/domswp/Ruina-v2-Text-generation-Image-.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd chatGPT-telegram
+  cd Ruina-v2-generation-Image
 ```
 
 Start the program
