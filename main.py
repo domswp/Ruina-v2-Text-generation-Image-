@@ -3,8 +3,8 @@ from telebot import types
 import openai
 import requests
 
-openai.api_key = "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"
-api = '1056639370:AAEZQt9uU2ZYJaRJOOi5NEFo_8RzYzJVwqM'
+openai.api_key = "Openai-key"
+api = 'telegrambot-key'
 bot = telebot.TeleBot(api)
 
 def generate_image(prompt):
