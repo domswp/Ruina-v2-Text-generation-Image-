@@ -32,8 +32,6 @@ import openai
 openai.api_key = "Openai-key"
 ```
 
-to get the telegram secret key you can see the tutorial 
-
 add your telegram secret key at 
 
 ```bash
